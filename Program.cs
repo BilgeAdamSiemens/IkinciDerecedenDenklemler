@@ -10,6 +10,7 @@ namespace IkinciDerecedenDenklemler
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("İkinci Dereceden Denklem Çözümü:");
         }
     }
 }
