@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T09:59:37.640Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Sbe-qtZ_Fpehz4wM_n9q" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T10:01:48.511Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VFhjMOL7zHSl01pOitoa" version="14.1.3" type="github">
   <diagram id="o8vb6pPjfElFAg49lfi6" name="Sayfa -1">
-    <mxGraphModel dx="1424" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zoYQsypuJYKvnKNY078S-1" value="Başla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-2" value="a, b, c &lt;br&gt;değişkenlerini &lt;br&gt;al" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-3" value="a = 0 mı?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="80" height="80" as="geometry" />
@@ -98,25 +98,25 @@
             <mxPoint x="80" y="490" as="sourcePoint" />
             <mxPoint x="130" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="300" />
+              <mxPoint x="440" y="300" />
               <mxPoint x="280" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-19" value="d &amp;lt; 0 mı?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-20" value="Ekrana&amp;nbsp;&lt;br&gt;&quot;Çözüm kümesi&lt;br&gt;kompleks&amp;nbsp;&lt;br&gt;sayılardır.&quot; yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-21" value="x1 = (-b + Karekök(d))/2&lt;br&gt;x2 = (- b - Karekök(d)) /2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-22" value="Ekrana &lt;br&gt;&quot;Çözüm kümesi x1 ve x2dir.&quot; yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="840" width="160" height="70" as="geometry" />
+          <mxGeometry x="200" y="900" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-23" value="BİTİR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1000" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-6" target="zoYQsypuJYKvnKNY078S-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -129,13 +129,13 @@
             <mxPoint x="321" y="580" as="sourcePoint" />
             <mxPoint x="450" y="585" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="585" />
+              <mxPoint x="470" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-26" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zoYQsypuJYKvnKNY078S-25">
           <mxGeometry x="-0.4426" y="-2" relative="1" as="geometry">
-            <mxPoint x="7.57" y="-12" as="offset" />
+            <mxPoint x="-32.96" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-27" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-19" target="zoYQsypuJYKvnKNY078S-21">
@@ -149,7 +149,7 @@
             <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoYQsypuJYKvnKNY078S-30" value="" style="endArrow=classic;html=1;exitX=0.514;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-21" target="zoYQsypuJYKvnKNY078S-22">
+        <mxCell id="zoYQsypuJYKvnKNY078S-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-21" target="zoYQsypuJYKvnKNY078S-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="880" as="sourcePoint" />
             <mxPoint x="210" y="830" as="targetPoint" />
