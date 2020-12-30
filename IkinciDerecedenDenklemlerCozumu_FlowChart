@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T10:05:25.565Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="q7xS8VTGuZ7vlwKeh-vi" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T10:08:59.607Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_DcuWvkgcOWEuvBKYJ-W" version="14.1.3" type="github">
   <diagram id="o8vb6pPjfElFAg49lfi6" name="Sayfa -1">
-    <mxGraphModel dx="1729" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="400" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-2" value="a, b, c &lt;br&gt;değişkenlerini &lt;br&gt;al" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-3" value="a = 0 mı?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="80" height="80" as="geometry" />
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-6" value="d = b^2 - 4ac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-3" target="zoYQsypuJYKvnKNY078S-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,7 +79,7 @@
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-16" value="Ekrana &lt;br&gt;&quot;Çözüm kümesi x1&#39;dir.&quot;&amp;nbsp;&lt;br&gt;yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-14" target="zoYQsypuJYKvnKNY078S-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,22 +92,22 @@
             <mxPoint x="80" y="490" as="sourcePoint" />
             <mxPoint x="130" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="300" />
-              <mxPoint x="280" y="300" />
+              <mxPoint x="440" y="280" />
+              <mxPoint x="280" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-19" value="d &amp;lt; 0 mı?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-20" value="Ekrana&amp;nbsp;&lt;br&gt;&quot;Çözüm kümesi&lt;br&gt;kompleks&amp;nbsp;&lt;br&gt;sayılardır.&quot; yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-21" value="x1 = (-b + Karekök(d))/2&lt;br&gt;x2 = (- b - Karekök(d)) /2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="780" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-22" value="Ekrana &lt;br&gt;&quot;Çözüm kümesi x1 ve x2dir.&quot; yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="900" width="160" height="70" as="geometry" />
+          <mxGeometry x="200" y="850" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zoYQsypuJYKvnKNY078S-23" value="BİTİR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="1000" width="80" height="80" as="geometry" />
@@ -123,7 +123,7 @@
             <mxPoint x="321" y="580" as="sourcePoint" />
             <mxPoint x="450" y="585" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="640" />
+              <mxPoint x="470" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,7 +161,7 @@
         <mxCell id="zoYQsypuJYKvnKNY078S-33" value="Ekrana &quot;Çözüm kümesi yoktur&quot; &lt;br&gt;yazdır." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoYQsypuJYKvnKNY078S-36" value="" style="endArrow=classic;html=1;entryX=0.003;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.488;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-22" target="zoYQsypuJYKvnKNY078S-23">
+        <mxCell id="zoYQsypuJYKvnKNY078S-36" value="" style="endArrow=classic;html=1;entryX=0.003;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-22" target="zoYQsypuJYKvnKNY078S-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="970" as="sourcePoint" />
             <mxPoint x="420" y="1050" as="targetPoint" />
@@ -170,12 +170,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoYQsypuJYKvnKNY078S-37" value="" style="endArrow=classic;html=1;entryX=0.414;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-20" target="zoYQsypuJYKvnKNY078S-23">
+        <mxCell id="zoYQsypuJYKvnKNY078S-37" value="" style="endArrow=classic;html=1;entryX=0.557;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.562;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zoYQsypuJYKvnKNY078S-20" target="zoYQsypuJYKvnKNY078S-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="980" as="sourcePoint" />
             <mxPoint x="490" y="930" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="980" />
+              <mxPoint x="467" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
